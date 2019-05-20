@@ -1,2 +1,6 @@
-# opus-univ-tests
-Test spectrometer settings and universal OPUS binary reader (simplerspec::read_opus_univ())
+Test OPUS reader
+================
+Philipp Baumann
+5/20/2019
+
+  - Test spectrometer settings and universal OPUS binary reader

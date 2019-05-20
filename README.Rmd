@@ -1,0 +1,8 @@
+---
+title: "Test OPUS reader"
+author: "Philipp Baumann"
+date: "5/20/2019"
+output: rmarkdown::github_document
+---
+
+- Test spectrometer settings and universal OPUS binary reader
